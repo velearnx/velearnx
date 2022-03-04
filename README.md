@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, Velia Rahmadi here. </h1>
-<h3>a passionate business intelligence developer who aspires to be an BI analyst and can assist a company in raising more funds.</h3>
+<h3>a passionate business intelligence developer who aspires to be a BI analyst and can assist a company in raising more funds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velearnx&label=Profile%20views&color=0e75b6&style=flat" alt="velearnx" /> </p>
 
